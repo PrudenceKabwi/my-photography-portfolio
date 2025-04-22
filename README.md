@@ -1,2 +1,4 @@
-# my-photography-portfolio
-Photography portfolio website using html and css
+# photography-portfolio-website 
+
+Photography portfolio website using html and css.
+
